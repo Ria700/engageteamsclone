@@ -1,0 +1,31 @@
+{
+  "name": "msteamsclone",
+  "version": "1.0.0",
+  "description": "This is a project for MS Engage 2021.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ria700/MSteamsClone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ria700/MSteamsClone/issues"
+  },
+  "homepage": "https://github.com/Ria700/MSteamsClone#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "peer": "^0.5.3",
+    "socket.io": "^4.1.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
