@@ -57,7 +57,7 @@ Open browser and goto http://localhost:3000/
 
 Now copy the url and open in another tab.
 
-Enjoy the video chat!
+Enjoy the video chat! ??
 
 ### Features
 1. Have a video conference with friends over diffrent tabs, browsers, devices and networks.
@@ -101,6 +101,8 @@ Run Server
 
 Open browser and goto http://localhost:3000/
 
+Chat with anyone! ??
+
 ### Features
 1. Chat with friends from anywhere around the globe
 2. User Authentication
@@ -109,6 +111,7 @@ Open browser and goto http://localhost:3000/
 5. Shows online and offline status
 6. Send attachments
 7. Connected to video 
+8. UI similar to teams
 
 ### User stories
 
