@@ -125,7 +125,7 @@ Create chat rooms and catch with your friends.
 6. Send attachments
 7. Connected to video 
 8. UI similar to teams
-9. Sound Notifications for sending and receing messages
+9. Sound Notifications for sending and receiving messages
 10. Prompt for wrong credentials
 
 ### User stories
