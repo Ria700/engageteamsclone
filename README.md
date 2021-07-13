@@ -135,7 +135,8 @@ Create chat rooms and catch with your friends.
 ### User stories
 
 
-### How the App looks / readme pretty?
+### How to use the app
+<img src="https://github.com/Ria700/engageteamsclone/blob/main/Screenshot%20(227).png?raw=true" width="500px" align="right">
 1. Login using these credentials: 
  
         Guest ID 1:
@@ -151,8 +152,9 @@ Create chat rooms and catch with your friends.
             password: 2444  
     
 On entering the wrong credentials you will receive this message:
-
+<img src="https://github.com/Ria700/engageteamsclone/blob/main/Screenshot%20(225).png?raw=true" width="500px" align="right">
 
 2. Create rooms, add and delete members
 3. Send messages, attachments and dial in a video call.
+<img src="https://github.com/Ria700/engageteamsclone/blob/main/Screenshot%20(225).png?raw=true" width="500px" align="right">
 
