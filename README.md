@@ -61,15 +61,16 @@ Enjoy the video chat! ??
 
 ### Features
 1. Have a video conference with friends over diffrent tabs, browsers, devices and networks.
-2. High quality videos
-3. A minimum of SIX participants are able connect with each other using your product to have a good quality video conversation.
-4. Mute audio functionality
-5. Video off functionality
+2. A minimum of SIX participants are able connect with each other using your product to have a good quality video conversation.
+3. Experience high quality video calls
+4. Switch audio on/off
+5. Switch video on/off
 6. Invite more participants
 7. Leave meeting
 8. UI similar to that of teams
-9. Chat with particpants (name of each participant appears before the message)
+9. Chat with particpants 
 10. Mirrored video
+11. Adding own name to profile with which you join the meeting
 
 ### User stories
 
