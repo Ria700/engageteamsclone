@@ -88,15 +88,18 @@ Check out the live demo: https://clonemsteamschat.herokuapp.com/
 - React
 - Deployment: Heroku
 
-### Credentails to use the aap:
-username: guest1
-password: 2444
+### Credentails to use the app(any):
+Guest ID 1:
+    username: guest1  
+    password: 2444  
 
-username: guest2
-password: 2444
+Guest ID 2:  
+    username: guest2  
+    password: 2444  
 
-username: guest3
-password: 2444
+Guest ID 3:  
+    username: guest3  
+    password: 2444 
 
 ### Installation Guide
 Make sure you have Node.js installed in your system. If not, download it from [here](https://nodejs.org/en/download/).
@@ -131,4 +134,25 @@ Create chat rooms and catch with your friends.
 
 ### User stories
 
+
 ### How the App looks / readme pretty?
+1. Login using these credentials: 
+ 
+        Guest ID 1:
+            username: guest1  
+            password: 2444  
+
+        Guest ID 2:  
+            username: guest2  
+            password: 2444  
+
+        Guest ID 3:  
+            username: guest3  
+            password: 2444  
+    
+On entering the wrong credentials you will receive this message:
+
+
+2. Create rooms, add and delete members
+3. Send messages, attachments and dial in a video call.
+
