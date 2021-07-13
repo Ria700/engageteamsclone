@@ -1,6 +1,19 @@
 # engageteamsclone
-I created this project as a part of Microsoft Engage'21 Mentorship Program. I built a fully functional Microsoft Teams clone with WebRTC and React by implementing some techniques of the agile methodlogy in my project. Using this app, you can create chat rooms and have high quality video calls with your team members.  
+I created this project as a part of Microsoft Engage'21 Mentorship Program. I built a fully functional Microsoft Teams clone with WebRTC and React by implementing some techniques of the agile methodology in my project. Using this app, you can create chat rooms and have high quality video calls with your team members.  
 Check out the live demo: https://clonemsteamschat.herokuapp.com/  
+
+### Credentials to use the app(any):
+Guest ID 1:
+    username: guest1  
+    password: 2444  
+
+Guest ID 2:  
+    username: guest2  
+    password: 2444  
+
+Guest ID 3:  
+    username: guest3  
+    password: 2444 
 
 ## The Challenge
 ### Build a Microsoft Teams clone
@@ -68,7 +81,7 @@ Happy Video Call Experience!
 6. Invite more participants
 7. Leave meeting
 8. UI similar to that of teams
-9. Chat with particpants during the Call
+9. Chat with participants during the Call
 10. Mirrored video
 11. Adding own name to profile with which you join the meeting
 12. Chat application accessible 
@@ -83,19 +96,6 @@ Check out the live demo: https://clonemsteamschat.herokuapp.com/
 - [chatengine.io](https://chatengine.io/)
 - React
 - Deployment: Heroku
-
-### Credentails to use the app(any):
-Guest ID 1:
-    username: guest1  
-    password: 2444  
-
-Guest ID 2:  
-    username: guest2  
-    password: 2444  
-
-Guest ID 3:  
-    username: guest3  
-    password: 2444 
 
 ### Installation Guide
 Make sure you have Node.js installed in your system. If not, download it from [here](https://nodejs.org/en/download/).
