@@ -161,5 +161,5 @@ On entering the wrong credentials you will receive this message:
 </br>
 </br>
 3. Send messages, attachments and dial in a video call.
-<img src="https://github.com/Ria700/engageteamsclone/blob/main/Screenshot%20(229).png?raw=true" width="500px" align="center">
+<img src="https://github.com/Ria700/engageteamsclone/blob/main/Screenshot%20(229).png?raw=true" width="700px" align="center">
 
