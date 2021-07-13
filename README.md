@@ -120,7 +120,7 @@ Create chat rooms and catch with your friends.
 1. Chat with friends from anywhere around the globe
 2. User Authentication
 3. Create and delete chats
-4. Add and delete memebers from chats
+4. Add and delete members from chats
 5. Shows online and offline status
 6. Send attachments
 7. Connected to video 
