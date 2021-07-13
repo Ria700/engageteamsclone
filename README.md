@@ -74,10 +74,6 @@ Happy Video Call Experience!
 12. Chat application accessible 
 13. One time use disposable meeting ids
 
-### User stories
-
-### How the App looks / readme pretty?
-
 ## Chat App
 An intensive chat application built with React and chatengine.io. With a user interface very similar to that of teams, you can create chat rooms, add and delete members, send messages, attachments and even dial in a video call.
 GitHub repo link: https://github.com/Ria700/teamschat  
