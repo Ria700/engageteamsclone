@@ -1,7 +1,6 @@
 # engageteamsclone
 Project for Microsoft Engage'21  
 Check out the live demo: https://clonemsteamschat.herokuapp.com/  
-Design: ?
 
 ## The Challenge
 ### Build a Microsoft Teams clone
