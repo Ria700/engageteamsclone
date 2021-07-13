@@ -84,6 +84,16 @@ Check out the live demo: https://clonemsteamschat.herokuapp.com/
 - [chatengine.io](https://chatengine.io/)
 - React
 
+### Credentails to use the aap:
+username: guest1
+password: 2444
+
+username: guest2
+password: 2444
+
+username: guest3
+password: 2444
+
 ### Installation Guide
 Make sure you have Node.js installed in your system. If not, download it from [here](https://nodejs.org/en/download/).
 
