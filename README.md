@@ -135,7 +135,7 @@ Create chat rooms and catch with your friends.
 
 
 ### How to use the app
-<img src="https://github.com/Ria700/engageteamsclone/blob/main/Screenshot%20(227).png?raw=true" width="500px" align="right">
+<img src="https://github.com/Ria700/engageteamsclone/blob/main/ProjectGallery/loginScreen.png" width="500px" align="right">
 1. Login using these credentials:  
 
  
@@ -154,7 +154,7 @@ Create chat rooms and catch with your friends.
  </br>
  </br>
     
-<img src="https://github.com/Ria700/engageteamsclone/blob/main/Screenshot%20(225).png?raw=true" width="500px" align="right">  
+<img src="https://github.com/Ria700/engageteamsclone/blob/main/ProjectGallery/wrongCredentials.png" width="500px" align="right">  
 On entering the wrong credentials you will receive this message:  
 </br>
 </br>
@@ -170,12 +170,12 @@ On entering the wrong credentials you will receive this message:
 </br>
 
 2. Create rooms, add and delete members.  
-<img src="https://github.com/Ria700/engageteamsclone/blob/main/Screenshot%20(229).png?raw=true" width="700px" align="center"> 
+<img src="https://github.com/Ria700/engageteamsclone/blob/main/ProjectGallery/chatApp.png" width="700px" align="center"> 
 
 
 </br>
 </br>
 
 3. Send messages, attachments and dial in a video call.  
-<img src="https://github.com/Ria700/engageteamsclone/blob/main/Screenshot%20(229).png?raw=true" width="700px" align="center"> 
+<img src="https://github.com/Ria700/engageteamsclone/blob/main/ProjectGallery/videoConf.png" width="700px" align="center"> 
 
