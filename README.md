@@ -117,7 +117,7 @@ Run Server
 
 Open browser and goto http://localhost:3000/
 
-Create chat rooms and catch with your friends.
+Create chat rooms and catch with your friends!
 
 ### Features
 1. Chat with friends from anywhere around the globe
